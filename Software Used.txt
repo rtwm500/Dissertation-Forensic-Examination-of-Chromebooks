@@ -1,0 +1,10 @@
+
+Operating Systems needed:
+Windows 10 Professional 
+Ubunutu 19.04 - used to run rsakeyfind
+
+
+FTK Imager - Used to examine code
+Forensic Explorer v4 - Used to examine code
+RMPrepUSB - Used to compile the USB Scraper bin onto the bootable SSD.
+
